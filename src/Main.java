@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Calculator1 {
+public class Main {
     public static void main(String[] args) throws Exception{
         Scanner sc = new Scanner(System.in);
         System.out.print("Введите любое целое число от 1 - 10 через пробел, операцию (+ сложение, - вычитание, * умножение, / деление) затем пробел и второе число затем Ввод\n= ");
